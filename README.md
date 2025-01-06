@@ -5,4 +5,4 @@ Este Notebook realiza o transfer learning de uma rede ImageNet para a classifica
 
 Este trabalho é a entrega do Desafio de Projeto do Bootcamp BairesDev - Machine Learning Practitioner da DIO. Parte dele foi baseado no tutorial disponível em https://colab.research.google.com/github/kylemath/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb.
 
-Toda a descrição do código pode ser visualizada nas célulad do notebook.
+Toda a descrição do código pode ser visualizada nas células do notebook.
